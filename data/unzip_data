@@ -1,0 +1,4 @@
+unzip donation.zip
+
+unzip 'block_*.zip'
+
